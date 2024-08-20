@@ -1,0 +1,17 @@
+# Ignore the virtual environment folder
+venv2/
+./venv2/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore config.py and any instance of it
+config.py
+./config.py
+
+# Ignore other virtual environment folders
+env/
+.venv/
